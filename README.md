@@ -5,10 +5,11 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
   
   <!-- Most Used Languages -->
-  <a href="https://github.com/tgyeongt/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt" width="48%"/>
-  </a>
-
+  <div align="center" style="width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/>
+  </div>
+    
+  
   <!-- I've Used -->
   <div align="center" style="width: 50%;">
     <h3>💻 I've Used</h3>
