@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt)](https://github.com/anuraghazra/github-readme-stats)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <!--
 **tgyeongt/tgyeongt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
