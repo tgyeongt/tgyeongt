@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
   
   <!-- Most Used Languages -->
-  <div align="center" style="width: 60%;">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/>
   </div>
     
