@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FEEE96&height=150&section=header)
 
-<h2 align="center">⭐ tgyeongt ⭐</h2>
+<h2 align="center">⭐ Welcome ⭐</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   
