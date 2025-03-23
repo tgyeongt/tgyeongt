@@ -1,17 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FEEE96&height=150&section=header)
 
-<h2 align="center">⭐ Tae Gyeong ⭐</h2>
+<h1 align="center">⭐ Taegyeong's GITHUB ⭐</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  
-  <!-- Most Used Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/>
-  </div>
     
-  
   <!-- I've Used -->
-  <div align="center" style="width: 50%;">
+  <div>
     <h3>💻 I've Used</h3>
     <p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -27,6 +21,11 @@
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
     </p>
+  </div>
+
+  <!-- Most Used Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/>
   </div>
 </div>
 
