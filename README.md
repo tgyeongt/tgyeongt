@@ -21,8 +21,8 @@
 
   <!-- Most Used Languages -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyeongt"/> -->
   </div>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FEEE96&height=150&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FEEE96&height=150&section=footer) -->
